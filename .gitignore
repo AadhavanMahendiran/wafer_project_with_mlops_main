@@ -1,7 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+Prediction_Batch_files/
+Training_Batch_Files/
 # C extensions
 *.so
 
