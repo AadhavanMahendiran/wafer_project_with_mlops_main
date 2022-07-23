@@ -1,8 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-Prediction_Batch_files/
-Training_Batch_Files/
+
 # C extensions
 *.so
 
@@ -88,3 +87,5 @@ target/
 
 # Mypy cache
 .mypy_cache/
+/Training_Batch_Files
+/prediction_Batch_files
